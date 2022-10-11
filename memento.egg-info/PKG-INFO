@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: memento
+Version: 0.0.1
+Summary: Life Calendar app built on Flask and Plotly-Dash
+Home-page: https://github.com/culpritgene/memento
+Author: culpritgene
+Author-email: culpritgene@gmail.com
